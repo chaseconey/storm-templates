@@ -1,4 +1,4 @@
 storm-templates
 ===============
 
-PHPStorm Live Tempaltes
+PHPStorm Live Templates
